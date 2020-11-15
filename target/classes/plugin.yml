@@ -1,0 +1,13 @@
+name: EconomicLandProtection
+version: 1.0.1
+main: jp.dip.monsterlifeserver.economiclandprotection.economiclandprotection.EconomicLandProtection
+api-version: 1.13
+prefix: ELP
+authors: [Monster2408]
+description: Economic Land Protection
+website: http://mlserver.php.xdomain.jp/
+depend: [Vault]
+
+commands:
+  land:
+    description: "Main Command of This Plugin."
